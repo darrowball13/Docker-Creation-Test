@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Matrix_Multiplication_Darrowry
+Version: 0.0.1
+Summary: A example package with Matrix Multiplication file and testing for it
+Author-email: Ryan Darrow <darrowry@bu.edu>
+Project-URL: Homepage, https://github.com/EC530/ci-cd-darrowball13
+Project-URL: Issues, https://github.com/EC530/ci-cd-darrowball13/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Example Package
+
+This is a simple example package working with my Matrix Multiplication and testing files. You can use
+[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.

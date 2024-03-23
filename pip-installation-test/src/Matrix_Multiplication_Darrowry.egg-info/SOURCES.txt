@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/Matrix_Mult_Package_Darrowry/Matrix_Multiplication.py
+src/Matrix_Mult_Package_Darrowry/Test_Matrix_Multiplication.py
+src/Matrix_Multiplication_Darrowry.egg-info/PKG-INFO
+src/Matrix_Multiplication_Darrowry.egg-info/SOURCES.txt
+src/Matrix_Multiplication_Darrowry.egg-info/dependency_links.txt
+src/Matrix_Multiplication_Darrowry.egg-info/top_level.txt
